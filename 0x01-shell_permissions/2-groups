@@ -1,3 +1,2 @@
-#!/bin/bash
-chmod 664 hello
+#!/bin/basho
 chmod --reference olleh hello
